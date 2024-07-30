@@ -9,14 +9,15 @@ import SwiftUI
 import AppConstant
 
 public struct MakeOnlyUI: View {
-    let uiText: String?
-    
-    public init(uiText: String = "A Hello from UICoponent Package") {
-        self.uiText = uiText
-    }
+//    let uiText: String?
+//
+//    public init(uiText: String = "A Hello from UICoponent Package") {
+//        self.uiText = uiText
+//    }
+    public init() {}
     
     public var body: some View {
-        Text(AppConstant().text)
+        Text(AppConstant.text)
     }
 }
 
