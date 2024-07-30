@@ -16,7 +16,7 @@ public struct MakeOnlyUI: View {
     }
     
     public var body: some View {
-        Text(AppConstant.text)
+        Text(AppConstant().text)
     }
 }
 
