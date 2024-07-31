@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Hitesh-mor/AppConstant.git",
       "state" : {
-        "revision" : "d04d64fa26323d13eb35a205ea1511764fc5af07",
-        "version" : "0.0.1"
+        "revision" : "bc9ad62f7af51a80f88cba219689572f033d1068",
+        "version" : "0.0.2"
       }
     }
   ],
